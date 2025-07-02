@@ -1,0 +1,73 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:600px;
+    margin-top: 70px;
+    padding: 40px;
+    border: 10px green solid;
+    height: 450px;
+    flex-direction: column;
+    width: 200px;
+    background-color:aqua;
+    gap:10px;
+}
+h1{
+    padding: 10px;
+    text-align: center;
+    color: brown;
+    
+}
+#first{
+    height:30px;
+    width:auto;
+    font-size: larger;
+    border: 3px black solid;
+    padding: 10px;
+}
+#last{
+    height:30px;
+    width:auto;
+    font-size: larger;
+    border: 3px black solid;
+    padding: 10px;
+}
+#email{
+    height:30px;
+    width:auto;
+    font-size: larger;
+    border: 3px black solid;
+    padding: 10px;
+}
+#phone{
+    height:30px;
+    width:auto;
+    font-size: larger;
+    border: 3px black solid;
+    padding: 10px;
+}
+#pass{
+    height:30px;
+    width:auto;
+    font-size: larger;
+    border: 3px black solid;
+    padding: 10px;
+}
+#confirm{
+    height:30px;
+    width:auto;
+    font-size: larger;
+    border: 3px black solid;
+    padding: 10px;
+}
+#sign{
+    height:60px;
+    width:auto;
+    font-size: larger;
+    border: 3px black solid;
+    padding: 10px;
+}
