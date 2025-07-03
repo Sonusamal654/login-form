@@ -57,7 +57,7 @@ submit.addEventListener("click",() =>{
          alert("success password")
     }
     else{
-        alert(" confirm password contain one uppercase,lower case,one letter")
+        alert(" confirm password contain one uppercase,lower case,oneletter")
     }
     if(passwordData!=confirmData){
         alert("password mismatch")
@@ -67,7 +67,6 @@ submit.addEventListener("click",() =>{
         }
         else{
             alert("success the password length")
-        }
-        
-    
+        }      
+   
 })
